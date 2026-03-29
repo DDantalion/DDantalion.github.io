@@ -14,19 +14,19 @@ Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**
 
 ## Education
 
-- **Sept. 2024 – Present**  
+- **Sept. 2024 - Present**
   PhD in Computer Science, University of California, Santa Cruz, Santa Cruz, California.
 
-- **Sept. 2020 – June 2024**  
+- **Sept. 2020 - June 2024**
   Bachelor of Computer Science, Wuhan University, Wuhan, China.
 
 ## Publications
 
-- **LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher**  
-  **Xiangyue Huang**, Yanan Guo, Yuanchao Xu  
-  Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).  
+- **LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher**
+  **Xiangyue Huang**, Yanan Guo, Yuanchao Xu
+  Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).
   To appear
 
 - **Security and Performance Implications of GPU Cache Eviction Priority Hints**
   Qizhong Wang, **Xiangyue Huang**, Yanan Guo, Yuanchao Xu
-  Accepted by International Symposium on Microarchitecture. (**MICRO 2025**).  
+  Accepted by International Symposium on Microarchitecture. (**MICRO 2025**).

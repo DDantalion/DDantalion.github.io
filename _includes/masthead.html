@@ -1,14 +1,17 @@
 {% include base_path %}
+{% assign has_main_nav = site.data.navigation.main | default: empty %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        {% unless site.single_page_site and has_main_nav.size == 0 %}
         <button><span class="navicon"></span></button>
+        {% endunless %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% for link in has_main_nav %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -18,11 +21,15 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          {% unless site.single_page_site %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
+          {% endunless %}
         </ul>
+        {% unless site.single_page_site and has_main_nav.size == 0 %}
         <ul class="hidden-links hidden"></ul>
+        {% endunless %}
       </nav>
     </div>
   </div>
