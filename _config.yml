@@ -23,7 +23,7 @@ repository               : "DDantalion/DDantalion.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xiangyue Huang" 
   bio              : "x"
   location         : "Santa Cruz, CA, USA"
