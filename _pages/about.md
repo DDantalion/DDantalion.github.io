@@ -8,7 +8,8 @@ redirect_from:
  - about.html
 ---
 
-My name is **Xiangyue Huang**. I am a second-year PhD student at the **University of California, Santa Cruz**, under the supervision of Professor **Yuanchao Xu**. My research interests include **computer systems** and **computer architecture**, with a specific focus on **Architecture Support for GPU and Memory Systems**.
+My name is **Xiangyue Huang**. I am a second-year PhD student at the **[University of California, Santa Cruz](https://www.ucsc.edu/)**, under the supervision of Professor **[Yuanchao Xu](https://yuanchaoxu6.github.io/)**. My research interests include **computer systems** and **computer architecture**, with a specific focus on **Architecture Support for GPU and Memory Systems**.
+
 
 Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**.
 
@@ -29,4 +30,4 @@ Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**
 
 - **Security and Performance Implications of GPU Cache Eviction Priority Hints**<br>
   Qizhong Wang, **Xiangyue Huang**, Yanan Guo, Yuanchao Xu<br>
-  Accepted by International Symposium on Microarchitecture. (**MICRO 2025**).
+  Accepted by The 58th International Symposium on Microarchitecture. (**MICRO 2025**).
