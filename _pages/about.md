@@ -1,8 +1,11 @@
 ---
 layout: single
-title: "About"
-permalink: /about/
+title: "About me"
+permalink: /
 author_profile: true
+redirect_from:
+ - /about/
+ - about.html
 ---
 
 My name is **Xiangyue Huang**. I am a second-year PhD student at the **University of California, Santa Cruz**, under the supervision of Professor **Yuanchao Xu**. My research interests include **computer systems** and **computer architecture**, with a specific focus on **Architecture Support for GPU and Memory Systems**.
