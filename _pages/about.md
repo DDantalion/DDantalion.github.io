@@ -23,6 +23,8 @@ Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**
 
 ## Publications
 
+- One paper Conditional Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).<br>
+
 - **LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher**<br>
   **Xiangyue Huang**, Yanan Guo, Yuanchao Xu<br>
   Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).<br>
