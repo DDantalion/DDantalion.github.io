@@ -28,6 +28,11 @@ Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**
   Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).<br>
   To appear
 
+- **Coarse-Grained Duplication First, Fine-Grained Deduplication Later: Duplication-Centric Multi-GPU Memory Management**<br>
+  **Xiangyue Huang**, Yanan Guo, Yuanchao Xu<br>
+  Accepted by The 53rd International Symposium on Computer Architecture. (**ISCA 2026**).<br>
+  To appear
+
 - **Security and Performance Implications of GPU Cache Eviction Priority Hints**<br>
   Qizhong Wang, **Xiangyue Huang**, Yanan Guo, Yuanchao Xu<br>
   Accepted by The 58th International Symposium on Microarchitecture. (**MICRO 2025**).
