@@ -13,7 +13,6 @@ My name is **Xiangyue Huang**. I am a second-year PhD student at the **[Universi
 
 Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**.
 
-You can view my **[CV (PDF)](/files/cv.pdf)**.
 
 ## Education
 
