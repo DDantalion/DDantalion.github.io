@@ -8,7 +8,7 @@ redirect_from:
  - about.html
 ---
 
-My name is **Xiangyue Huang**. I am a second-year PhD student at the **[University of California, Santa Cruz](https://www.ucsc.edu/)**, under the supervision of Professor **[Yuanchao Xu](https://yuanchaoxu6.github.io/)**. My research interests include **computer systems** and **computer architecture**, with a specific focus on **Architecture Support for GPU and Memory Systems**.
+My name is **Xiangyue Huang**. I am a third-year PhD student at the **[University of California, Santa Cruz](https://www.ucsc.edu/)**, under the supervision of Professor **[Yuanchao Xu](https://yuanchaoxu6.github.io/)**. My research interests include **computer systems** and **computer architecture**, with a specific focus on **Architecture Support for GPU and Memory Systems**.
 
 
 Please feel free to reach out to me by email at **hxiangyu [at] ucsc [dot] edu**.
